@@ -1,3 +1,15 @@
-Perplexity AI fue seleccionada como la mejor opción de inversión por su impresionante trayectoria de crecimiento y su proyección de valorización futura. La empresa ha demostrado un aumento significativo en el manejo de consultas diarias y se espera que su valor alcance los $32.3 billones en 2032. Aunque es una empresa privada, existen oportunidades para inversores acreditados, lo que puede ofrecer retornos lucrativos. 
+Informe Detallado de Inversión:
 
-ZeroTier, aunque promete una fuerte demanda en soluciones de virtualización de redes, y Deepgram, con su tecnología avanzada de reconocimiento de voz, también muestran potencial; sin embargo, Perplexity AI destaca por su posición de mercado en rápido crecimiento y sus proyecciones robustas de crecimiento a largo plazo, lo cual inclinó la decisión final hacia su favor. ZeroTier y Deepgram no fueron seleccionadas debido a que, aunque muestran un buen potencial, no tienen las mismas proyecciones de valoración a largo plazo ni la misma trayectoria de crecimiento que Perplexity AI.
+### Empresa Elegida
+**Perplexity AI**
+- **Posición de Mercado:** Ha pasado de una valoración de $150 millones a $9 mil millones rápidamente, mostrando un crecimiento acelerado dentro del sector de inteligencia artificial.
+- **Perspectiva Futura:** Dado el crecimiento proyectado del mercado de IA a cerca de $1 billón a finales de la década, se espera que Perplexity AI siga creciendo gracias a sus soluciones innovadoras y a la continua expansión de su base de usuarios activos.
+- **Potencial de Inversión:** Su fuerte interés por parte de inversionistas, incluido el respaldo de figuras destacadas como Jeff Bezos, y su rápida valorización hacen de esta empresa una opción de inversión extremadamente atractiva.
+
+### Empresas No Seleccionadas
+1. **Ambassador**
+   - **Posición de Mercado:** Una prometedora startup de Seattle especializada en el análisis de feedback de clientes mediante IA, habiendo recaudado recientemente $7 millones.
+   - **Perspectiva Futura:** Se anticipa un fuerte crecimiento, ya que las empresas buscan herramientas de IA para mejorar la interacción con los clientes. Sin embargo, comparado con Perplexity AI, el crecimiento reciente de valor de mercado es más modesto.
+   - **Razón para no ser Seleccionada:** Aunque presenta una buena oportunidad de inversión, su crecimiento reciente y proyecciones no son tan espectaculares como las de Perplexity AI, haciendo que esta última sea una inversión más convincente en este momento.
+
+Conclusión: En base a las tendencias del mercado y las proyecciones de crecimiento, Perplexity AI se presenta como la mejor opción de inversión, especialmente para aquellos interesados en el sector tecnológico y de IA.
